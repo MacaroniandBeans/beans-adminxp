@@ -6,8 +6,11 @@ Add on admin menu to add/remove XP in pickle_xp using Ox-Lib
 
 
 -- Integrates with minor additions to pickle XP system
+
 -- Pulls XP list directly from the config of pickle_xp
+
 -- Requires Ox-Lib
+
 -- Discord webhook for monitoring
 
 
